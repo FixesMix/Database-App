@@ -1,4 +1,4 @@
-#Database app by Aura Akunne
+# Database app by Aura Akunne
 
 A database app using C#, HTML, and SQL for the database.
 
